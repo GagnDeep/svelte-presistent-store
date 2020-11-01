@@ -26,14 +26,13 @@ npm run start
 ```javascript
 import { writable } from "svelte-presistent-store";
 
-const store = writable("any-key", inititalStore); // will return a svelte writable store that will presist data
+const store = writable("any-key", inititalStore);
 ```
 
 ## Author
 
 👤 **gagandeep singh**
 
-- Website: gagn.me
 - Github: [@GagnDeep](https://github.com/GagnDeep)
 
 ## Show your support
