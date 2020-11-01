@@ -1,6 +1,9 @@
 {
   "name": "svelte-presistent-store",
   "version": "0.0.1",
+  "author": {
+    "name": "gagandeep singh"
+  },
   "main": "index.js",
   "repository": "https://github.com/GagnDeep/svelte-presistent-store.git",
   "description": "A pesistent store for svelte based on svelte/store",
